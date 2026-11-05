@@ -1,0 +1,9 @@
+# Ігноруємо важкі файли даних
+*.csv
+*.parquet
+*.zip
+
+# Тимчасові файли Python та Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
